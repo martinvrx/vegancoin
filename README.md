@@ -9,6 +9,7 @@ is availble for windows 64 and linux - Ubuntu at the moment.
 
 the idea was founded by me and created with the help of a developer .
 
+More info coming soon. 
 
 
 
